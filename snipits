@@ -1,0 +1,41 @@
+ {
+      "name": "Exec Workspace Campground",
+      "image": "images/react-lake.jpg",
+      "elevation": 1233,
+      "featured": false,
+      "cost": 65,
+      "description": "Nestled in the foothills of the Chrome Mountains, this campground on the shores of the pristine React Lake is a favorite for fly fishers."
+}
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZTUwNzg1OGU0ZmU4ODQ2Njg4YjI2NDMiLCJpYXQiOjE1ODIzNzgxMjMsImV4cCI6MTU4MjM4MTcyM30.8Rr7EZibVhNSxRX_zAknNpWytTcrSIETJnCKyZyqW10
+
+
+ {
+    "username": "admin",
+    "password": "password"
+ }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZTUwNzg1OGU0ZmU4ODQ2Njg4YjI2NDMiLCJpYXQiOjE1ODI0MDg3ODAsImV4cCI6MTU4MjQxMjM4MH0.wUSPMCIKmwyoixmse8HzOFkLpPafOuKlv_RccLnrv2U
+
+
+ {
+    "username": "brian",
+    "password": "password"
+ }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZTUxMjgwZmI0NzVhNTNmOWNkOWFjNTAiLCJpYXQiOjE1ODIzOTc4NjksImV4cCI6MTU4MjQwMTQ2OX0.tfcuxf7v2d0oAJuxX9pYFG2vUq_AEdYEGGy5XBuLfT8
+
+
+{
+      "rating": "4",
+      "text": "Howdy"
+}
+
+
+
+ https://github.com/bjvasquez/triphazard-server.git
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/bjvasquez/triphazard-server.git
+git push -u origin master
