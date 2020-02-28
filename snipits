@@ -29,7 +29,14 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZTUxMjgwZmI0NzVhNTNmOWNkOWFjNTA
       "text": "Howdy"
 }
 
-
+{
+	 "name" : "My First Hazard Name",
+    "description" : "My First Hazard Description",
+    "image": "Filepath to my pic",
+    "latitude": "120.120",
+    "longitude": "180.180", 
+    "public": false
+}
 
  https://github.com/bjvasquez/triphazard-server.git
 
@@ -38,3 +45,10 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/bjvasquez/triphazard-server.git
 git push -u origin master
+
+https://developers.facebook.com/apps/
+App ID:  191331092187419
+Sec:  d113e4de7b2cf3ccd29031d3c6179da4
+
+
+accessToken: "EAACuA73IyRsBAHk6Dmo5UVNS4PrSk1OzWekO1odl1zwLYQqfknf2inEbHTgBpfhSkXZC4MQBuUTtJS0Lrr6bv3uOZCPZAvRMVZAwkB6a9OA1DYnxdIlQ4ZCZAZCHJxyZCqZA3Gs9Kn63Sp4xYtch21PmcB4pQ6paATN8pGSks8A0JCQZDZD"
